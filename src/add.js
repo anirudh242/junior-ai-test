@@ -3,3 +3,6 @@ function add(a, b) {
 }
 
 module.exports = add;
+
+
+# 🤖 Junior Dev AI was here!
